@@ -1,0 +1,93 @@
+METODOLOGIA DE LA CIENCIA DE DATOS
+
++ Introduccion a CRISP-DM
+  . Metodologias de la ciencia de datos
+    - El curso se enfoca en la metodlogia Fundacional
+      para la ciencia de datos de John Rollins.
+     
+    - En la mineria de datos se usa comunmente la meto
+      dologia CRISP-DM (CROSS INDUSTRY STANDARD PROCESS
+      DATA MINING).
+    
+ ¿ Ques es CRISP-DM?
+   -Es un proceso orientado a incrementar el uso de la
+    mineria de datos en una amplia variedad de aplicaciones
+    de negocios e industrias.
+   
+    - Esta metodologia esta compuesta por 6 pasos:
+      Paso 01: Bussines undesrtantding 
+               (Comprension del negocio)
+           - Es la etapa mas importante porque en esta
+             se delimita la intencion del proyecto
+           - La metodologia fundacional y la CRISP-DM
+             coinciden en esta etapa.
+           - La parte dificil es que los actores tienen
+             distintos objetivos, sesgos, y modos de
+             compatrir informacion.
+
+      Paso 02: Data Understanding
+              ( Comprension de los datos)
+            - Esta etapa se basa en la comprension
+              del negocio.
+            - Recoleccion de datos
+            - Entender lo que quiere y necesita el negocio
+              determinar que datos de recolectaran,
+              de que fuentes y que metodos.
+              El metodo CRISP-DM combina las etapas de:
+              (requerimientos de datos,recoleccion de datos,
+               y comprension de datos de la metodologia
+               funcional.)
+       Paso 03: Data preparation
+              (Preparacion de datos)
+             - Una vez se elija un conjunto de datos,
+              debe ser revisado para detectar casos
+              cuestionables, faltantes o ambiguos.
+             - La preparacion de datos, es similar al
+              lavado de vegetales recien recogidos, ya que
+              supone la eliminacion de los elementos no
+              deseados como la tierra.
+        
+       Paso 04: Modeling ( Modelado)
+            - Al estar listos los datos se podran usar  
+            y deben expresarse a travez de los modelos
+            apropiados.
+            - El proposito de la mineria de datos es crear
+            informacion y conocimiento que tenga sentido
+            y utilidad. 
+            La eleccion del modelo es un arte y una ciencia
+
+       Paso 05: Evaluation ( Evaluacion )
+            - En esta etapa el modelo debe ser probado,
+            se lleva a cabo una prueba seleecionada
+            sobre la que se ejecuta el modelo.
+            La finalidad de esta etapa es ver la efecti
+            vidad y eficacia del modelo 
+           
+       Paso 06: Deployment (Despliegue)
+           - En esta etapa se utlizan datos nuevos por 
+            fuera del alcance del conjunto de datos inicial
+            y por parte de nuevos actores.
+           - La interaccion en esta etaoa puede revelar 
+           nuevas variables y necesidades del conjunto
+           de datos y el modelo.
+
+NOTA:
+ El CRISP-DM es un modelo altamente flexible y ciclico.
+ se necesida flexibidad en cada paso y comunicacion para
+ conducir el proyecto por buen camino.
+ El punto clave de este proceso es su caracter cíclico.
+ es decir que una vez finalizado vuelve a comenzar.
+
+26 SATURDAY MARCH 
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101ES/PY0101ES-1-1-Types.ipynb?lti=true
+
+
++ nuestro pensamiento es binario
+¿Que es una estructura condicional?
+¿Que es una estructura repetitiva?
+Existen 02 formas de estructuras repetitivas
+¿cual es la diferencia entre usar while y for?
+
+El notebook es un archivo de trabajo
+existen dos aspectos importantes del notebook
